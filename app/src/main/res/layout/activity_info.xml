@@ -48,7 +48,7 @@
         android:layout_height="212dp"
         android:layout_marginStart="5dp"
         android:layout_marginEnd="5dp"
-        android:layout_marginBottom="176dp"
+        android:layout_marginBottom="160dp"
         android:src="@drawable/plan"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
